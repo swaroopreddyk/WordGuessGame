@@ -52,5 +52,6 @@ This is a word guess CLI app that utilizes constructor functions.
 1. Once you have the keys [clone](https://github.com/swaroopreddyk/WordGuessGame.git) this project.
 2. Then run the following command to install the requied node packages  
 `npm install`
-3. Look at the below GIF's on the execution details
-    ![liri-execution-gif](./demo.gif)
+3. Look at the below GIF's on the execution details  
+
+    ![WordGuessGameDemo](./WordGuessGameDemo.gif)
